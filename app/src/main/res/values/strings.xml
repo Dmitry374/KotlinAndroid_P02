@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinAndroid_P02</string>
+    
+    <string-array name="ListEntries">
+        <item>IPhone</item>
+        <item>Samsung</item>
+        <item>Honor</item>
+    </string-array>
+
+</resources>
